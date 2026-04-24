@@ -76,6 +76,7 @@ public class QuantityMeasurementApp {
 
     // Main method
     public static void main(String[] args) {
+        //take input from user
         Scanner input = new Scanner(System.in);
         System.out.print("Enter inch 1 :");
         String inch1 = input.nextLine();
